@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my website "my_website" on GitHub Pages
+
+Thank you for reading this page. On my Github project, you can suggest some modification by Pull requests.
+More information on Markdown at the next chapter.
+
+Best Regard, jrd10 from France :)
+
+
+## This site works with Jekyll
 
 You can use the [editor on GitHub](https://github.com/JRelland/my_website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
